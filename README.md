@@ -1,3 +1,3 @@
 # JSlessons
 
-#My daily PHP exercise
+My daily JS exercise
